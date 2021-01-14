@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-18T11:28:13 IST" name="Suite" finished-at="2020-11-18T11:29:11 IST" duration-ms="57937">
+    <groups>
+      <group name="MARVEL">
+        <method signature="MoEngageTest.getCharactersTest()[pri:0, instance:com.moengage.tests.MoEngageTest@4387b79e]" name="getCharactersTest" class="com.moengage.tests.MoEngageTest"/>
+        <method signature="MoEngageTest.getSeriesTest()[pri:0, instance:com.moengage.tests.MoEngageTest@4387b79e]" name="getSeriesTest" class="com.moengage.tests.MoEngageTest"/>
+        <method signature="MoEngageTest.getStoriesTest()[pri:0, instance:com.moengage.tests.MoEngageTest@4387b79e]" name="getStoriesTest" class="com.moengage.tests.MoEngageTest"/>
+      </group> <!-- MARVEL -->
+    </groups>
+    <test started-at="2020-11-18T11:28:13 IST" name="Test" finished-at="2020-11-18T11:29:11 IST" duration-ms="57937">
+      <class name="com.moengage.tests.MoEngageTest">
+        <test-method signature="getCharactersTest()[pri:0, instance:com.moengage.tests.MoEngageTest@4387b79e]" started-at="2020-11-18T11:28:13 IST" name="getCharactersTest" finished-at="2020-11-18T11:28:28 IST" duration-ms="14934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCharactersTest -->
+        <test-method signature="getSeriesTest()[pri:0, instance:com.moengage.tests.MoEngageTest@4387b79e]" started-at="2020-11-18T11:28:28 IST" name="getSeriesTest" finished-at="2020-11-18T11:28:33 IST" duration-ms="5292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSeriesTest -->
+        <test-method signature="getStoriesTest()[pri:0, instance:com.moengage.tests.MoEngageTest@4387b79e]" started-at="2020-11-18T11:28:33 IST" name="getStoriesTest" finished-at="2020-11-18T11:29:11 IST" duration-ms="37681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStoriesTest -->
+      </class> <!-- com.moengage.tests.MoEngageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
